@@ -1,2 +1,2 @@
-# edmond-chinyamu
+# edmond-chinyamu.github.io
 my portfolio
